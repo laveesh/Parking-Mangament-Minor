@@ -1,3 +1,3 @@
 module.exports = {
-    DB: 'mongodb+srv://Dharani:OmSaiRam@246@cluster0-yfvvs.mongodb.net/hackathon?retryWrites=true'
+    DB: 'mongodb+srv://parkAdmin:parkAdminMinor@cluster0-yipn7.mongodb.net/test?retryWrites=true'
 };

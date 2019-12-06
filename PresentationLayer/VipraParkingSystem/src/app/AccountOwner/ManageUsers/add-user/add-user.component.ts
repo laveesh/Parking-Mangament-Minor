@@ -33,7 +33,7 @@ export class AddUserComponent implements OnInit {
       lastName: this.lastName,
       emailID: this.emailID,
       password: this.password,
-      address: this.address,
+      userName: this.firstName,
       userType: 'Patrol',
 
     };
